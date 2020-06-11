@@ -33,6 +33,7 @@ h2 {
   font-size: 4.2rem;
   margin-bottom: 4rem;
   font-weight: 700;
+  color: white;
 }
 
 h3 {
@@ -50,6 +51,7 @@ h3 {
   align-items: center;
   max-width: 80rem;
   margin: 0 auto;
+  padding: 2rem;
 }
 
 .container > * {
