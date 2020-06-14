@@ -2,16 +2,15 @@
   list-style: none;
   padding-left: 0;
   margin-bottom: 4rem;
- 
 }
 
-#highScores{
-    position: relative;
-    width: 55rem;
-    padding: 4rem 4rem 6rem;
-    border-radius: 1rem;
-    box-shadow: -5px -5px 10px rgba(255, 255, 255, 0.05),
-      5px 5px 15px rgba(0, 0, 0, 0.5);
+#highScores {
+  position: relative;
+  width: 55rem;
+  padding: 4rem 4rem 6rem;
+  border-radius: 1rem;
+  box-shadow: -5px -5px 10px rgba(255, 255, 255, 0.05),
+    5px 5px 15px rgba(0, 0, 0, 0.5);
 }
 .high-score {
   font-size: 2.8rem;
@@ -21,5 +20,4 @@
 
 .high-score:hover {
   transform: sclae(1.025);
-}
 }
